@@ -14,7 +14,6 @@ while(codeBroken){
   this.planFix(int hoursStayingUp = 5);
   
   this.cry();
-  
   this.findSolution();
   System.out.println("Yay!");
   this.test();
