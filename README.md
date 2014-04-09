@@ -2,8 +2,8 @@ Rhody-Routes
 =
 Code for the "Rhody Routes" URI Navigation program.
 Tools:
-Eclipse
-Android Development Tool
+Eclipse,
+Android Development Tool,
 Genymotion
 
 =
