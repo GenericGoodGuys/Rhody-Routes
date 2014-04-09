@@ -1,4 +1,23 @@
 Rhody-Routes
-= 1
-Code for the "Rhody Routes" URI Navigation program. The Map, Scheduler, and Search Bar can be found here.
-2+2 = 4
+=
+Code for the "Rhody Routes" URI Navigation program.
+Tools:
+Eclipse
+Android Development Tool
+Genymotion
+
+=
+
+while(codeBroken){
+  this.backToDrawingBoard();
+  this.planFix(int hoursStayingUp = 5);
+  this.cry();
+  this.findSolution();
+  System.out.println("Yay!");
+  this.test();
+  if(this.test())
+    codeBroken = false;
+  else
+    codeBroken = true;
+
+}
